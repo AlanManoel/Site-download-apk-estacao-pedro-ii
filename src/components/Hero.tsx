@@ -1,15 +1,6 @@
 import { APP } from "../config/app.config.ts";
 import DownloadButton from "./DownloadButton.tsx";
 
-const rows = [
-  ["Arquivo", APP.fileName],
-  ["Versão", APP.version],
-  ["Tamanho", APP.size],
-  ["Atualizado em", APP.updatedAt],
-  ["Android mínimo", APP.minAndroid],
-  ["Origem", "Fora da Google Play"],
-];
-
 export default function Hero() {
   return (
     <section className="hero" id="top">
