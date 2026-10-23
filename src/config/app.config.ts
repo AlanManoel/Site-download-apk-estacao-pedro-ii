@@ -9,7 +9,7 @@ export const APP = {
   updatedAt: "19/10/2026",
   minAndroid: "8.0 (Oreo) ou superior",
   fileName,
-  apkUrl: `https://github.com/AlanManoel/Site-download-apk-estacao-pedro-ii/releases/download/v1/estacao_pedroii_apk.apk`,
+  apkUrl: `https://github.com/AlanManoel/Estacao-Pedro-II/releases/download/v1/application-e2345cf1-94d7-4884-bd9d-fe9d5142b085.apk`,
   // Opcional: gere com `sha256sum meuapp.apk` para o usuário conferir a integridade
   sha256: "",
   supportEmail: "alanmanoel517@gmail.com",
